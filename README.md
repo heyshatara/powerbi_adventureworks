@@ -38,7 +38,7 @@ Retail sales (OLTP) database supporting a fictitous global manufacturing company
 Let's take a look at the four questions and the visuals created to answer each of them:
 
 - 🔢 <b>Page 1 - Executive Dashboard:</b> Features high level numbers & trends executives would care about most to assess the health of the business (i.e. profit & revenue)
-<img src="[https://i.imgur.com/MKpxZiq.png]" height="40%" alt="Power BI Executive Dashboard"/>
+<img src="https://i.imgur.com/MKpxZiq.png" height="40%" alt="Power BI Executive Dashboard"/>
 
 - 🔢 <b>Page 2 - Map:</b> Geospatial analysis that compares regional performance.
 <img src="https://i.imgur.com/PWoFEz0.png" height="40%" alt="Table - Top 10 Countries by Revenue & Quantity"/>
