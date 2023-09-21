@@ -35,16 +35,17 @@ Retail sales (OLTP) database supporting a fictitous global manufacturing company
 
 
 <h2>📈Power BI Report Page Breakdown</h2>
-Let's take a look at the four questions and the visuals created to answer each of them:
+Let's take a look at the four report pages and the visuals created for each:
 
 - 🔢 <b>Page 1 - Executive Dashboard:</b> Features high level numbers & trends executives would care about most to assess the health of the business (i.e. profit & revenue)
-<img src="https://i.imgur.com/MKpxZiq.png" height="40%" alt="Power BI Executive Dashboard"/>
+  
+<img src="https://i.imgur.com/MKpxZiq.png" height=250px alt="Power BI Executive Dashboard"/>
 
 - 🔢 <b>Page 2 - Map:</b> Geospatial analysis that compares regional performance.
-<img src="https://i.imgur.com/PWoFEz0.png" height="40%" alt="Table - Top 10 Countries by Revenue & Quantity"/>
+<img src="https://i.imgur.com/cxhQVJY.png" height=250px alt="Power BI Geospatial Analysis"/>
 
 - 🔢 <b>Page 3 - Product Detail:</b> Showcases product-level trends, actuals vs. targets etc.
-<img src="https://i.imgur.com/RdTkw0Y.png" height="40%" alt="Table - Top 10 Customers by Revenue"/>
+<img src="https://i.imgur.com/XGF2wNU.png" height=250px alt="Power BI Product Detail Report"/>
 
 - 🔢 <b>Page 4 - Customer Detail:</b> Identifies high-value customers & demographic detail.
-<img src="https://i.imgur.com/Xm8Jx3D.png" height="40%" alt="Table - Revenue by Country"/>
+<img src="https://i.imgur.com/7FRFHM0.png" height=250px alt="Power BI Customer Detail Report"/>
