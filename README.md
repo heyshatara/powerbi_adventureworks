@@ -1,17 +1,25 @@
 # Building Relational Data Model & Designing Interactive Microsoft Power BI Dashboard
 
-<img src="https://imgur.com/q0StKlD.png" height="50%" alt="Power BI Portfolio Project Snapshot"/>
+<img src="https://imgur.com/q0StKlD.png" alt="Power BI Portfolio Project Snapshot"/>
 
 <h2>🗺️Project Description</h2>
-This business intelligence portfolio project is based on my coursework through the Maven Analytics Microsoft Power BI Desktop course utlizing Microsoft's popular <i>AdventureWorks</i> ecommerce database.
+<p></p>This business intelligence portfolio project is based on my coursework through the Maven Analytics Microsoft Power BI Desktop course utlizing Microsoft's popular <i>AdventureWorks</i> ecommerce database.</p>
 
-The global manufacturing company, Adventure Works Cycle has hired me as a Business Intelligence Analyst. Adventure Works Cycle needs a way to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers. Using raw csv files, the company needs their data transformed, analyzed and turned into an interactive dashboard that visualizes the insights.  
+<p>The global manufacturing company, Adventure Works Cycle has hired me as a Business Intelligence Analyst. Adventure Works Cycle needs a way to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers. Using raw csv files, the company needs their data transformed, analyzed and turned into an interactive dashboard that visualizes the insights.</p>  
+
+<p>Fully interactive report can be found on my <a href="https://github.com/heyshatara">Power BI Service workspace</a></p>
 
 <h2>💻Languages/Libraries and Utilities Used</h2>
 
 - <b>Power BI</b>
 - <b>Power Query</b>
 - <b>DAX</b>
+
+<h2>💡Project Highlights:</h2>
+
+- <b>Intermediate-level DAX</b>
+- <b>Advanced features such as bookmarks & custom tooltips</b>
+- <b>Snowflake schema data modeling</b>
 
 <h2>📝Dataset Description:</h2>
 Retail sales (OLTP) database supporting a fictitous global manufacturing company called Adverture Works Cycle. Built and providing by Microsoft [https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms].
@@ -25,14 +33,14 @@ Retail sales (OLTP) database supporting a fictitous global manufacturing company
 #Objective 2: Build A Relational Database 
 - Showcase understanding of business requirements for various provided scenarios, and recommend the appropriate visuals/graphics
 - Main Tasks Completed: `create table relationships` `connect tables in snowflake schema` `update filter flow` `create hierarchies` 
+
 #Objective 3: Create Calculated Columns & Measures with DAX
-- a. Clean data
-- b. Using your BI tool of choice, create visuals around four questions requested by the CEO & CMO.
+- Demonstrate understanding and impact of DAX syntax & calculations + explore nested functions & time intelligence patterns.
 - Main Tasks Completed: `create calculated columns` `create DAX measures` `conditional & logical functions` `iterator functions` `time intelligence`
 
 #Objective 4: Design Interactive Power BI Dashboard 
-- Effectively communicate your findings and explain how it relates to the concerns of the CEO & CEO
-- Main Tasks Completed: `grouping objects` `building & formatting charts` `bookmarks` `report interactions` `parameters` `custom tultips` `user roles` `mobile layout`
+- Reveiw best practices for visualizing data and designing effective reports & dashboards. Also add interactivity & configure row-level security.
+- Main Tasks Completed: `grouping objects` `building & formatting charts` `bookmarks` `report interactions` `parameters` `custom tooltips` `user roles` `mobile layout`
 
 
 <h2>📈Power BI Report Page Breakdown</h2>
