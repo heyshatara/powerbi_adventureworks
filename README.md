@@ -1,10 +1,11 @@
 # Building Relational Data Model & Designing Interactive Microsoft Power BI Dashboard
 
-<img src="https://imgur.com/HbBdjXK.png" height="50%" alt="Data Analysis Image by Nikin from Pixabay"/>
+<img src="https://imgur.com/q0StKlD.png" height="50%" alt="Power BI Portfolio Project Snapshot"/>
 
 <h2>🗺️Project Description</h2>
-This business intelligence portfolio project is based on my coursework through the Maven Analytics Microsoft Power BI Desktop course utlizing Microsoft's popular AdventureWorks ecommerce database.
-A global manufacturing company (Adventure Works Cycle) has hired me as a Business Intelligence Analyst. Adventure Works Cycle needs a way to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers. Using raw csv files, the company needs their data transformed, analyzed and turned into an interactive dashboard that visualizes the insights.  
+This business intelligence portfolio project is based on my coursework through the Maven Analytics Microsoft Power BI Desktop course utlizing Microsoft's popular <i>AdventureWorks</i> ecommerce database.
+
+The global manufacturing company, Adventure Works Cycle has hired me as a Business Intelligence Analyst. Adventure Works Cycle needs a way to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers. Using raw csv files, the company needs their data transformed, analyzed and turned into an interactive dashboard that visualizes the insights.  
 
 <h2>💻Languages/Libraries and Utilities Used</h2>
 
