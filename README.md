@@ -4,7 +4,7 @@
 <h2>🗺️Project Description</h2>
 <p></p>This business intelligence portfolio project is based on my coursework through the Maven Analytics Microsoft Power BI Desktop course utlizing Microsoft's popular <i>AdventureWorks</i> ecommerce database.</p>
 
-<p>The global manufacturing company, Adventure Works Cycle has hired me as a Business Intelligence Analyst. Adventure Works Cycle needs a way to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers. Using raw csv files, the company needs their data transformed, analyzed and turned into an interactive dashboard that visualizes the insights.</p>  
+<p>The global manufacturing company, Adventure Works Cycle has hired me as a Business Intelligence Analyst. Adventure Works Cycle needs a way to track KPIs, compare regional performance, analyze product-level trends, and identify high-value customers. Using raw csv files, the company needs their data transformed, analyzed and turned into an interactive report that visualizes the insights.</p>  
 
 <p>Fully interactive report can be found on my <a href="https://github.com/heyshatara">Power BI Service workspace</a></p>
 
