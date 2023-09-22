@@ -1,5 +1,4 @@
-# Building Relational Data Model & Designing Interactive Microsoft Power BI Dashboard
-
+# Building Relational Data Model & Designing Interactive Microsoft Power BI Report
 <img src="https://imgur.com/q0StKlD.png" alt="Power BI Portfolio Project Snapshot"/>
 
 <h2>🗺️Project Description</h2>
