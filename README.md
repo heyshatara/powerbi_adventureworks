@@ -1,5 +1,5 @@
 # Building Relational Data Model & Designing Interactive Microsoft Power BI Report
-<img src="https://imgur.com/4r24u8u" alt="Custom Relational Database in Snowflake Schema"/>
+<img src="https://i.imgur.com/rDwx09g.png" alt="Custom Relational Database in Snowflake Schema"/>
 
 <h2>🗺️Project Description</h2>
 <p></p>This business intelligence portfolio project is based on my coursework through the Maven Analytics Microsoft Power BI Desktop course utilizing Microsoft's popular <i>AdventureWorks</i> ecommerce database.</p>
